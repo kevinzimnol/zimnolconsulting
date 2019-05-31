@@ -43,7 +43,7 @@
     "uniqCompNum": 38,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/vertical-tagline-on-white-by-logaster-wuerfel-128x101-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/cube-on-transparent-by-logaster-128x142.png",
     "noImageResize": "",
     "siteUrl": "http://www.zimnol-consulting.de",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-141144011-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-141144011-1');\r\n</script>",
@@ -59,7 +59,7 @@
       "settings": {
         "main": true,
         "title": "Zimnol-Consulting",
-        "meta_descr": "",
+        "meta_descr": "Mehr Erreichen. Das ist, wofür Zimnol-Consulting steht! Egal ob Online oder Offline. Wir Coachen Sie im Verkauf und Beraten im Marketing. Wir kümmern uns um Ihre Google My Business Registrierung. Wir sind Vertriebspartner für das digitale Arbeitsschutz Programm.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -852,7 +852,7 @@
     },
     "Datenschutz.html": {
       "settings": {
-        "meta_descr": "Datenschutzerklärung ",
+        "meta_descr": "Mehr Erreichen. Das ist, wofür Zimnol-Consulting steht! Egal ob Online oder Offline. Wir Coachen Sie im Verkauf und Beraten im Marketing. Wir kümmern uns um Ihre Google My Business Registrierung. Wir sind Vertriebspartner für das digitale Arbeitsschutz Programm.",
         "title": "Datenschutz",
         "order": 2
       },
@@ -1393,7 +1393,7 @@
     },
     "Impressum.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Mehr Erreichen. Das ist, wofür Zimnol-Consulting steht! Egal ob Online oder Offline. Wir Coachen Sie im Verkauf und Beraten im Marketing. Wir kümmern uns um Ihre Google My Business Registrierung. Wir sind Vertriebspartner für das digitale Arbeitsschutz Programm.",
         "title": "Impressum",
         "order": 1
       },
