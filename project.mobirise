@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zimnol-Consulting-clone",
-    "currentPage": "Impressum.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 40,
+    "uniqCompNum": 38,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/cube-on-transparent-by-logaster-128x142.png",
@@ -59,7 +59,7 @@
       "settings": {
         "main": true,
         "title": "Zimnol-Consulting",
-        "meta_descr": "Mehr Erreichen. Das ist, wofür Zimnol-Consulting steht! Egal ob Online oder Offline. Wir Coachen Sie im Verkauf und Beraten im Marketing. Wir kümmern uns um Ihre Google My Business Registrierung. Wir sind Vertriebspartner für das digitale Arbeitsschutz Programm.",
+        "meta_descr": "Zimnol-Consulting ist Ihr Marketingberater mit Sitz in Warendrof. Gefüht von Kevin Zimnol. Zimnol-Consulting Arbeitet mit Google Zertifizierten Beratern zusammen. Sie können uns Ihre Anfrage auch per E-Mail an service [at] zimnol-consulting.de Senden. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
