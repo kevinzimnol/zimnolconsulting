@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zimnol-Consulting-clone",
-    "currentPage": "index.html",
+    "currentPage": "Impressum.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Zimnol-Consulting",
+        "title": "Homepage",
         "meta_descr": "Zimnol-Consulting ist Ihr Marketingberater mit Sitz in Warendrof. Gefüht von Kevin Zimnol. Zimnol-Consulting Arbeitet mit Google Zertifizierten Beratern zusammen. Sie können uns Ihre Anfrage auch per E-Mail an service [at] zimnol-consulting.de Senden. ",
         "header_custom": "",
         "footer_custom": "",
